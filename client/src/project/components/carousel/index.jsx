@@ -8,22 +8,22 @@ import img3 from "../../assets/image/home-carousel/img3.jpg"
 import { Imgs } from "./styled";
 const data = [
     {
-        image: "https://thumbs.dreamstime.com/b/background-image-reception-area-modern-medical-clinic-chair-aigt-blue-chairs-wooden-counter-lobby-healthcare-321249446.jpg",
+        image: "https://thumbs.dreamstime.com/b/european-luxury-medical-clinic-brand-new-empty-33655077.jpg",
     },
     {
-        image: "https://thumbs.dreamstime.com/b/clinic-themed-wallpaper-presentations-offices-ai-generated-clinic-themed-wallpaper-presentations-offices-324939451.jpg",
+        image: "https://png.pngtree.com/thumb_back/fh260/background/20230612/pngtree-medical-equipment-of-a-hospital-image_2972876.jpg",
     },
     {
-        image: "https://watermark.lovepik.com/photo/40145/9468.jpg_wh1200.jpg",
+        image: "https://media.istockphoto.com/id/2218491828/photo/medical-team-smiling-at-camera-in-hospital-corridor.jpg?s=612x612&w=0&k=20&c=dwgp7opE_FYbqU7vqGNLAY8Y79hBUpwrfkgNDAoZhyQ=",
     },
     {
-        image: "https://thumbs.dreamstime.com/b/background-image-reception-area-modern-medical-clinic-chair-aigt-blue-chairs-wooden-counter-lobby-healthcare-321249446.jpg",
+        image: "https://thumbs.dreamstime.com/b/european-luxury-medical-clinic-brand-new-empty-33655077.jpg",
     },
     {
-        image: "https://thumbs.dreamstime.com/b/clinic-themed-wallpaper-presentations-offices-ai-generated-clinic-themed-wallpaper-presentations-offices-324939451.jpg",
+        image: "https://png.pngtree.com/thumb_back/fh260/background/20230612/pngtree-medical-equipment-of-a-hospital-image_2972876.jpg",
     },
     {
-        image: "https://watermark.lovepik.com/photo/40145/9468.jpg_wh1200.jpg",
+        image: "https://media.istockphoto.com/id/2218491828/photo/medical-team-smiling-at-camera-in-hospital-corridor.jpg?s=612x612&w=0&k=20&c=dwgp7opE_FYbqU7vqGNLAY8Y79hBUpwrfkgNDAoZhyQ=",
     },
 ];
 
